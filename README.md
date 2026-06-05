@@ -1,16 +1,22 @@
-## Hi there 👋
+# Thomas Eusterholz
 
-<!--
-**thomaseusterholz-IQloop/thomaseusterholz-IQloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Executive operator building AI, IoT and enterprise platforms across Europe and the United States.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Enterprise AI
+- Conversational AI
+- AI Agents
+- IoT Platforms
+- Cloud Infrastructure
+- Enterprise Transformation
+- Platform Scaling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+CTO, CEO and board member with more than 20 years of experience building and scaling technology businesses, leading enterprise transformation programs and bringing advanced technology into productive enterprise environments.
+
+## Current Interests
+- Agentic AI
+- Enterprise AI Deployment
+- Voice & Conversational AI
+- AI-native Business Platforms
+- AI-assisted Operations
